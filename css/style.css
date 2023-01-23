@@ -1030,7 +1030,7 @@ body {
 }
 
 .burger__menu-item {
-  height: 3.01px;
+  height: 2px;
   width: 40px;
   background-color: #F78434;
   opacity: 1;
@@ -1039,7 +1039,7 @@ body {
 
 .burger__item0-active {
   transform: translateY(11px) rotate(45deg);
-  height: 3px;
+  height: 2px;
 }
 
 .burger__item1-active {
@@ -1048,7 +1048,7 @@ body {
 
 .burger__item2-active {
   transform: translateY(-13px) rotate(-45deg);
-  height: 3px;
+  height: 2px;
 }
 
 @media (max-width: 900px) {
